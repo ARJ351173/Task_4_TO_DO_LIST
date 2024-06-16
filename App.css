@@ -1,0 +1,17 @@
+/* App.css */
+
+.App {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  background: linear-gradient(135deg, #1d2b64 0%, #f8cdda 100%);
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+}
