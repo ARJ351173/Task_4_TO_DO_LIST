@@ -1,4 +1,3 @@
-```markdown
 # React To-Do List Application
 
 This repository contains a simple To-Do List application developed using React. It allows users to add, complete, and delete tasks, with a clean and responsive design.
