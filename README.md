@@ -51,5 +51,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgments
 
-- Thanks to the open-source community for providing the tools and libraries that made this project possible.
 - Thanks to Mainflow Service and Technology team for guidance and support during the development of this project.
